@@ -1,0 +1,12 @@
+.background-news {
+    background-image: url("https://hackernoon.com/hn-images/1*cCdSJ0mOqjQkm-soL5hlIw.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    min-height: 50vh;
+}
+
+.quote{
+    margin-left:100px;
+    margin-top: 25px;
+}
